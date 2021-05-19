@@ -1,0 +1,20 @@
+Test1 Parameters:
+	Final_Value = 2000;
+	Drop_Value = 1990;
+	Period = 800;
+	Step_Vertical_Value = 73;
+	Step_Horizontal_Value = 10;
+Test2 Parameters:
+	Final_Value = 500;
+	Drop_Value = 90;
+	Period = 155;
+	Step_Vertical_Value = 3;
+	Step_Horizontal_Value = 5;
+
+Test3 Parameters:
+	Final_Value = 10000;
+	Drop_Value = 8500;
+	Period = 851;
+	Step_Vertical_Value = 20;
+	Step_Horizontal_Value = 2;
+
